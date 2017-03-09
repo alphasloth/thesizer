@@ -1,2 +1,3 @@
 # thesizer
-Functional web synthesizer
+Functional javascript audio synthesis library
+
